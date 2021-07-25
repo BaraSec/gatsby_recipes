@@ -4,7 +4,7 @@ No Fluff, Just Recipes. GatsbyJS, ReactJS, Contentful Headless CMS
 ![screenshot](https://raw.githubusercontent.com/BaraSec/gatsby_recipes/main/image.png)
 
 ## Live
-[You can experience SimplyRecipes live here]()
+[You can experience SimplyRecipes live here](https://simplyyrecipes.netlify.app)
 
 ## Usage
 1. Install the npm dependencies with `npm install`
